@@ -1,9 +1,7 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-This project is an analysis of the ecommerce dataset that comes from an online store and the documentation of that process from start to finish.
-
-My goal with this final project is to put all my SQL skills to the test and continue to learn more during the project.
+This project looks at sales data from an online store. Using SQL skills to find out important info that can help the business do better. It's a chance for you to show off what I know and learn even more
 
 ## Process
 ### (Step 1)
