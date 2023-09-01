@@ -5,9 +5,9 @@ This project looks at sales data from an online store. Using SQL skills to find 
 
 ## Process
 ### (Step 1)
-First I loaded all the csv files into a newdata base called ecommerce using pgadmin4.
+First, I put all the sales files into a new database named "ecommerce" using a tool called pgAdmin4. (RDBMS software)
 ### (Step 2)
-Then I reviewed the data in the tables to see what kind of information was within each column. I also spent time looking for any dirty data.
+Next, I looked through the tables to see what info was in each column. You also checked for any messy or wrong data
 ### (Step 3)
 Next, I started working on creating queries to clean the data. Once I was done I created a new clean version of each table, keeping the old ones as backup temporaily.
 ### (Step 4)
