@@ -5,7 +5,7 @@ This project looks at sales data from an online store. Using SQL skills to find 
 
 ## Process
 ### (Step 1)
-First I created a new PostgreSQL database called ***ecommerce***. I set up tables for each .csv file.
+First I created a new PostgreSQL database called ```ecommerce```. I set up tables for each .csv file.
 ### (Step 2)
 Next, I looked through the tables to see what info was in each column. You also checked for any messy or wrong data
 ### (Step 3)
