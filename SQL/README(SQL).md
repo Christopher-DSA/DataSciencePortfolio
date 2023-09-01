@@ -9,7 +9,7 @@ First, I put all the sales files into a new database named "ecommerce" using a t
 ### (Step 2)
 Next, I looked through the tables to see what info was in each column. You also checked for any messy or wrong data
 ### (Step 3)
-Next, I started working on creating queries to clean the data. Once I was done I created a new clean version of each table, keeping the old ones as backup temporaily.
+Next, I started working on creating queries to clean the data. Once I was done I created a new clean version of each table making to preserve the old tables as backups temporaily.
 ### (Step 4)
 Next, I started answering the 5 questions in part 3 using SQL queries.
 ### (Step 5)
