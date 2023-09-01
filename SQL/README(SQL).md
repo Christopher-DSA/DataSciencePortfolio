@@ -1,6 +1,8 @@
 # Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
+
+---
 This project looks at sales data from an online store. Using SQL skills to find out important info that can help the business do better. The goal is to show off my SQL skills and improve them further.
 ## Step 1: Loading the csv Files into a database
 First I created a new PostgreSQL database called ```ecommerce```. I set up tables for each .csv file.
