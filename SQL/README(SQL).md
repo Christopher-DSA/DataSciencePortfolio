@@ -7,7 +7,7 @@ First I created a new PostgreSQL database called ```ecommerce```. I set up table
 ## Step 2: Data Cleaning
 First, I explored the dataset to understand the information contained within the tables. Taking note of missing/flawed data.
 
-The cleaning.md file within this folder of the repository contains my cleaning process and code samples: [cleaning.md](https://github.com/Christopher-DSA/DataSciencePortfolio/blob/main/SQL/cleaning.md)
+The cleaning_data.md file within this folder of the repository contains my cleaning process and code samples: [cleaning_data.md](https://github.com/Christopher-DSA/DataSciencePortfolio/blob/main/SQL/cleaning_data.md)
 ### Step 3
 Next, I started aligning the data with the following buissness problems and began answering questions with the data:
 
