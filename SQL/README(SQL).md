@@ -10,6 +10,7 @@ First, I explored the dataset to understand the information contained within the
 The cleaning.md file within this folder of the repository contains my cleaning process and code samples.
 ### Step 3
 Next, I started aligning the data with the following buissness problems and began answering questions with the data:
+
 [Answering Questions With SQL](https://github.com/Christopher-DSA)
 ### (Step 5)
 Finally I did QA on my data and identified risk areas by running queries to validate the accuracy of my results in parts 3 and 4.
