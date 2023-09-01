@@ -11,7 +11,7 @@ The cleaning_data.md file within this folder of the repository contains my clean
 ### Step 3
 Next, I started aligning the data with the following buissness problems and began answering questions with the data:
 
-[answering_questions_with_sql.md](https://github.com/Christopher-DSA/DataSciencePortfolio/blob/main/SQL/starting_with_questions.md)
+Code samples and work samples: [answering_questions_with_sql.md](https://github.com/Christopher-DSA/DataSciencePortfolio/blob/main/SQL/starting_with_questions.md)
 ### (Step 5)
 Finally I did QA on my data and identified risk areas by running queries to validate the accuracy of my results in parts 3 and 4.
 
