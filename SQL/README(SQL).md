@@ -8,10 +8,9 @@ First I created a new PostgreSQL database called ```ecommerce```. I set up table
 First, I explored the dataset to understand the information contained within the tables. Taking note of missing/flawed data.
 
 The cleaning.md file within this folder of the repository contains my cleaning process and code samples.
-### (Step 3)
-Next, I started working on creating queries to clean the data. Once I was done I created a new clean version of each table making to preserve the old tables as backups temporaily.
-### (Step 4)
-Next, I started answering the 5 questions in part 3 using SQL queries.
+### Step 3
+Next, I started aligning the data with the following buissness problems and began answering questions with the data:
+
 ### (Step 5)
 Finally I did QA on my data and identified risk areas by running queries to validate the accuracy of my results in parts 3 and 4.
 
