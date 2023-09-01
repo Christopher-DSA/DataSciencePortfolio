@@ -12,12 +12,13 @@ First, I explored the dataset to understand the information contained within the
 
 The cleaning_data.md file within this folder of the repository contains my cleaning process and code samples: [cleaning_data.md](https://github.com/Christopher-DSA/DataSciencePortfolio/blob/main/SQL/cleaning_data.md)
 
-## Step 3
+## Step 3: Solving Buisness Problems with Data
 Next, I started aligning the data with the following buissness problems and began answering questions with the data:
 
 Code samples and work samples: [answering_questions_with_sql.md](https://github.com/Christopher-DSA/DataSciencePortfolio/blob/main/SQL/starting_with_questions.md)
-### (Step 5)
-Finally I did QA on my data and identified risk areas by running queries to validate the accuracy of my results in parts 3 and 4.
+
+# Step 4: Quality assurance
+Finally I did QA on my data and identified risk areas by running queries to validate the accuracy of my results and the contexts which they are valid.
 
 ## Results
 I discovered this data could tell me a lot about the demographic, revenue and products customers were purchasing on the website the data came from.
