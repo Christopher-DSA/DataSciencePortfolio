@@ -35,4 +35,4 @@ Data type divison was an unexpected challenge in this project. I created a query
 ## Future Goals
 If I had more time, I would search for tools to automate parts of the cleaning process, learning new technologies is never a bad thing.
 
-I would have tried to make some sort of flow chart outlining how the business process works and how and when each piece data gets added to the database.
+I would make a flow chart outlining how the business process works and how and when each piece data gets added to the database.
