@@ -21,6 +21,7 @@ Code samples and work samples: [answering_questions_with_sql.md](https://github.
 Finally I did QA on my data and identified risk areas by running queries to validate the accuracy of my results and the contexts which they are valid.
 
 Click here to view the quality assurance process: [QA.md](https://github.com/Christopher-DSA/DataSciencePortfolio/blob/main/SQL/QA.md)
+
 ## Results
 I discovered this data could tell me a lot about the demographic, revenue and products customers were purchasing on the website the data came from.
 I learned that the website had 14,223 unique visitors, most of which came from the United States.
