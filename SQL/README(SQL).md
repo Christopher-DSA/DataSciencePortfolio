@@ -4,10 +4,16 @@
 This project looks at sales data from an online store. Using SQL skills to find out important info that can help the business do better. It's a chance for you to show off what I know and learn even more
 
 ## Process
-### (Step 1)
+### Step 1: Loading the csv files Into a database
 First I created a new PostgreSQL database called ```ecommerce```. I set up tables for each .csv file.
-### (Step 2)
-Next, I looked through the tables to see what info was in each column. You also checked for any messy or wrong data
+# Step 2: Data Cleaning
+As always, once you have received any dataset, your first task is to orient yourself to the data contained within. While exploring the data, you should keep an eye out for any of potential data issues that need to be cleaned.
+
+Cleaning hint: The unit cost in the data needs to be divided by 1,000,000.
+
+Apart from this, did you see any other issue that requires cleaning? Be sure to take the time upfront to address them.
+
+In your copy of the cleaning_data.md file, describe what issues you addressed by cleaning the data and provide the queries you executed to clean the data.
 ### (Step 3)
 Next, I started working on creating queries to clean the data. Once I was done I created a new clean version of each table making to preserve the old tables as backups temporaily.
 ### (Step 4)
