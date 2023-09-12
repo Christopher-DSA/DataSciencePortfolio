@@ -9,9 +9,9 @@ SQL: Retrieving data from databases and answering buisness questions with the da
 
 Machine Learning (Computer Vision): [Real-Time Sign Language Translation with Tensorflow](https://github.com/Christopher-DSA/Sign-Language-Detection-Computer-Vision)
 
-Dashboards/Visualization:
+Dashboards/Visualization: 
 
-Exploratory Data Analysis (EDA):
+Exploratory Data Analysis (EDA): [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
 
 # In Progress
 
