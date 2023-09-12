@@ -11,7 +11,7 @@ Computer Vision/Object Detection: [Real-Time Sign Language Translation with Tens
 
 Dashboards/Visualization: 
 
-Unsupevised Machine Learning (K-Means Clustering): [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
+Unsupervised Machine Learning (K-Means Clustering): [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
 
 # In Progress
 
