@@ -7,11 +7,11 @@ https://github.com/Christopher-DSA/SQL-Project
 # Contents
 SQL: Retrieving data from databases and answering buisness questions with the data: [SQL Skills Showcase](https://github.com/Christopher-DSA/SQL-Project)
 
-Machine Learning (Computer Vision): [Real-Time Sign Language Translation with Tensorflow](https://github.com/Christopher-DSA/Sign-Language-Detection-Computer-Vision)
+Computer Vision/Object Detection: [Real-Time Sign Language Translation with Tensorflow](https://github.com/Christopher-DSA/Sign-Language-Detection-Computer-Vision)
 
 Dashboards/Visualization: 
 
-Exploratory Data Analysis (EDA): [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
+Unsupevised Machine Learning (K-Means Clustering): [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
 
 # In Progress
 
