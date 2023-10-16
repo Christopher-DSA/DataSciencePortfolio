@@ -12,5 +12,6 @@ Dashboards/Visualization:
 
 Unsupervised Machine Learning (K-Means Clustering): [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
 
-# In Progress
-- Dashboard building with power-bi project.
+R-Programming: [R-Programming](https://github.com/Christopher-DSA/R_Programming/tree/main)
+
+Power-BI Dashboard: 
