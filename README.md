@@ -8,8 +8,6 @@ SQL: Retrieving data from databases and answering buisness questions with the da
 
 Computer Vision/Object Detection: [Real-Time Sign Language Translation with Tensorflow](https://github.com/Christopher-DSA/Sign-Language-Detection-Computer-Vision)
 
-Dashboards/Visualization: 
-
 Unsupervised Machine Learning (K-Means Clustering): [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
 
 R-Programming: [R-Programming](https://github.com/Christopher-DSA/R_Programming/tree/main)
