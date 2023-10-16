@@ -14,4 +14,4 @@ Unsupervised Machine Learning (K-Means Clustering): [Analysis of Customer Spendi
 
 R-Programming: [R-Programming](https://github.com/Christopher-DSA/R_Programming/tree/main)
 
-Power-BI Dashboard: 
+Power-BI Dashboard: [Power-BI](https://github.com/Christopher-DSA/Power-BI/blob/main/DataSurveyBreakDownDashboard.pdf)
