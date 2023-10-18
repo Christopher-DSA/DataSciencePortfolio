@@ -11,5 +11,8 @@ Computer Vision/Object Detection: [Real-Time Sign Language Translation with Tens
 Unsupervised Machine Learning (K-Means Clustering): [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
 
 R-Programming: [R-Programming](https://github.com/Christopher-DSA/R_Programming/tree/main)
+*An advanced data visualization with R*
+![image](https://github.com/Christopher-DSA/DataSciencePortfolio/assets/132075292/6dba44df-da16-465f-9741-163ffea9ef34)
+
 
 Power-BI Dashboard: [Power-BI](https://github.com/Christopher-DSA/Power-BI/blob/main/DataSurveyBreakDownDashboard.pdf)
