@@ -16,6 +16,9 @@ R-Programming: [R-Programming](https://github.com/Christopher-DSA/R_Programming/
 
 
 Power-BI Dashboard: [Power-BI](https://github.com/Christopher-DSA/Power-BI/blob/main/DataSurveyBreakDownDashboard.pdf)
-*Image of a PowerBI dashboard I developed, actual dashboard can be interacted with*
+
 ![image](https://github.com/Christopher-DSA/DataSciencePortfolio/assets/132075292/5fe0bba8-c04e-4eda-a5ee-0bd5bb7ca3d6)
+
+![image](https://github.com/Christopher-DSA/DataSciencePortfolio/assets/132075292/784b64e6-5e1d-4cd5-8271-3c4e630eb2e8)
+
 
