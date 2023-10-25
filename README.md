@@ -23,7 +23,8 @@
 
 
 ----
-Currently in progress:
+`Currently in progress:`
+
 Business Analysis for Gett (GTM): [Insights-From-Failed-Orders-Analysis-For-Gett-GTM](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/blob/main/README.md)
 
 
