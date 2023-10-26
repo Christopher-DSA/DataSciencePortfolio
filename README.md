@@ -14,7 +14,7 @@
 1. [What is this repo about?](#firstly-what-is-gett)
 2. [Contents](#contents)
 
-`I update this portfolio regularly!`
+**I update this portfolio regularly!**
 
 # Purpose
 To demonstrate my technical expertise as a data scientist/analyst.
