@@ -18,7 +18,7 @@
 
 # Purpose
 To demonstrate my technical expertise as a data scientist/analyst.
-`SQL` `Machine Learning` `R-programming`, `Python`, `Power-BI`, `ETL`, `Databases`
+`SQL` `Machine Learning` `R-programming`, `Python`, `Power-BI`, `ETL`, `Databases`. `Visualizations`
 
 # Contents
 `SQL`: Retrieving data from databases and answering buisness questions with data: [SQL Skills Showcase](https://github.com/Christopher-DSA/SQL-Project)
