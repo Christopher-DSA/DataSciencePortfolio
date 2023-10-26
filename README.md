@@ -1,6 +1,18 @@
-# Data Science Portfolio
--The data science projects that demonstrate my skills and knowledge.
--This readme file serves as a table of contents, linking to my various projects.
+<div align="center">
+    <h1>Data Science Portfolio</h1>
+    <i>Christopher Martinez Demmans</i>
+</div>
+
+<div align="center">
+    <sub>Let's connect 🤗</sub>
+    <br />
+   • <a href="https://www.linkedin.com/in/christopher-martinez-demmans-3a1594291/">LinkedIn</a> •
+<br />
+</div>
+
+#### Table of contents
+1. [What is this repo about?](#firstly-what-is-gett)
+2. [The Analysis Process](#this-project-is-currently-in-progress)
 
 `I update this portfolio regularly!`
 
