@@ -29,6 +29,7 @@ To demonstrate my technical expertise as a data scientist/analyst.
 
 `Unsupervised Machine Learning (K-Means Clustering)`: [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
 
+`Data Visualizations in R`: [ProfessorSalaryVisualizations](https://github.com/Christopher-DSA/Salaries_for_Professors_Analysis)
 `R-Programming`: [R-Programming](https://github.com/Christopher-DSA/R_Programming/tree/main)
 *An advanced data visualization with R*
 ![image](https://github.com/Christopher-DSA/DataSciencePortfolio/assets/132075292/6dba44df-da16-465f-9741-163ffea9ef34)
