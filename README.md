@@ -23,6 +23,8 @@ To demonstrate my technical expertise as a data scientist/analyst.
 # Contents
 `SQL`: Retrieving data from databases and answering buisness questions with data: [SQL Skills Showcase](https://github.com/Christopher-DSA/SQL-Project)
 
+`Diabetes Diagnosis with Machine Learning` [DiabetesDiagnosisProject](https://github.com/Christopher-DSA/Diabetes-Supervised-Learning-Project)
+
 `Computer Vision/Object Detection`: [Real-Time Sign Language Translation with Tensorflow](https://github.com/Christopher-DSA/Sign-Language-Detection-Computer-Vision)
 
 `Unsupervised Machine Learning (K-Means Clustering)`: [Analysis of Customer Spending Habits for a Wholesale Chain](https://github.com/Christopher-DSA/Unsupervised-Learning-Project)
