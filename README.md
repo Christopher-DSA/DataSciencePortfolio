@@ -42,8 +42,7 @@ To demonstrate my technical expertise as a data scientist/analyst.
 
 ![image](https://github.com/Christopher-DSA/DataSciencePortfolio/assets/132075292/784b64e6-5e1d-4cd5-8271-3c4e630eb2e8)
 
-'Notes-app': [Notes App](https://christopher-dsa.github.io/notesapp/)
-
+`Notes-app `: [Notes App](https://christopher-dsa.github.io/notesapp/)
 ----
 ----
 `Currently in progress:`
