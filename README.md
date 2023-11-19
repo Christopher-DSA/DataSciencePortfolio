@@ -49,5 +49,7 @@ To demonstrate my technical expertise as a data scientist/analyst.
 `Complete:`
 
 Business Analysis for Gett (GTM): [Insights-From-Failed-Orders-Analysis-For-Gett-GTM](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/tree/main)
+![image](https://github.com/Christopher-DSA/DataSciencePortfolio/assets/132075292/1eb8bb32-d3de-463b-91b9-81ad4ee47e24)
+
 
 
