@@ -45,7 +45,7 @@ To demonstrate my technical expertise as a data scientist/analyst.
 `Notes-app`: [Notes App](https://christopher-dsa.github.io/notesapp/)
 ----
 ----
-`Currently in progress:`
+`Complete:`
 
 Business Analysis for Gett (GTM): [Insights-From-Failed-Orders-Analysis-For-Gett-GTM](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/tree/main)
 
